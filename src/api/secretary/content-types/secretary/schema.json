@@ -1,0 +1,268 @@
+{
+  "kind": "singleType",
+  "collectionName": "secretaries",
+  "info": {
+    "singularName": "secretary",
+    "pluralName": "secretaries",
+    "displayName": "Secretary",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "main_slogan": {
+      "type": "string"
+    },
+    "hero_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "advisory": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "about_title": {
+      "type": "string"
+    },
+    "about_content": {
+      "type": "richtext"
+    },
+    "about_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "service_title": {
+      "type": "string"
+    },
+    "secretary1": {
+      "type": "string"
+    },
+    "secretary1_title": {
+      "type": "string"
+    },
+    "secretary1_details": {
+      "type": "richtext"
+    },
+    "otherSecretary1": {
+      "type": "string"
+    },
+    "otherSecretary1_title": {
+      "type": "string"
+    },
+    "secretary1_price": {
+      "type": "string"
+    },
+    "otherSecretary1_price": {
+      "type": "string"
+    },
+    "otherSecretary4": {
+      "type": "string"
+    },
+    "otherSecretary4_title": {
+      "type": "string"
+    },
+    "otherSecretary4_price": {
+      "type": "string"
+    },
+    "secretary2": {
+      "type": "string"
+    },
+    "secretary2_title": {
+      "type": "string"
+    },
+    "secretary2_price": {
+      "type": "string"
+    },
+    "otherSecretary1_details": {
+      "type": "richtext"
+    },
+    "otherSecretary4_details": {
+      "type": "richtext"
+    },
+    "secretary2_details": {
+      "type": "richtext"
+    },
+    "otherSecretary2_details": {
+      "type": "richtext"
+    },
+    "secretary3": {
+      "type": "string"
+    },
+    "secretary3_title": {
+      "type": "string"
+    },
+    "secretary3_price": {
+      "type": "string"
+    },
+    "secretary3_details": {
+      "type": "richtext"
+    },
+    "otherSecretary3": {
+      "type": "string"
+    },
+    "otherSecretary3_title": {
+      "type": "string"
+    },
+    "otherSecretary3_price": {
+      "type": "string"
+    },
+    "otherSecretary3_details": {
+      "type": "richtext"
+    },
+    "otherSecretary2": {
+      "type": "string"
+    },
+    "otherSecretary2_title": {
+      "type": "string"
+    },
+    "otherSecretary2_price": {
+      "type": "string"
+    },
+    "otherSecretary5": {
+      "type": "string"
+    },
+    "otherSecretary5_title": {
+      "type": "string"
+    },
+    "otherSecretary5_price": {
+      "type": "string"
+    },
+    "otherSecretary5_details": {
+      "type": "richtext"
+    },
+    "otherSecretary6": {
+      "type": "string"
+    },
+    "otherSecretary6_title": {
+      "type": "string"
+    },
+    "otherSecretary6_price": {
+      "type": "string"
+    },
+    "otherSecretary6_details": {
+      "type": "richtext"
+    },
+    "contact_us": {
+      "type": "string"
+    },
+    "faq1": {
+      "type": "string"
+    },
+    "faq1_content": {
+      "type": "richtext"
+    },
+    "faq2": {
+      "type": "string"
+    },
+    "faq2_content": {
+      "type": "richtext"
+    },
+    "faq3": {
+      "type": "string"
+    },
+    "faq3_content": {
+      "type": "richtext"
+    },
+    "faq4": {
+      "type": "string"
+    },
+    "faq4_content": {
+      "type": "richtext"
+    },
+    "faq5": {
+      "type": "string"
+    },
+    "faq6": {
+      "type": "string"
+    },
+    "faq7": {
+      "type": "string"
+    },
+    "faq8": {
+      "type": "string"
+    },
+    "faq9": {
+      "type": "string"
+    },
+    "faq10": {
+      "type": "string"
+    },
+    "faq11": {
+      "type": "string"
+    },
+    "faq12": {
+      "type": "string"
+    },
+    "faq13": {
+      "type": "string"
+    },
+    "faq14": {
+      "type": "string"
+    },
+    "faq15": {
+      "type": "string"
+    },
+    "faq16": {
+      "type": "string"
+    },
+    "faq5_content": {
+      "type": "richtext"
+    },
+    "faq6_content": {
+      "type": "richtext"
+    },
+    "faq7_content": {
+      "type": "richtext"
+    },
+    "faq8_content": {
+      "type": "richtext"
+    },
+    "faq9_content": {
+      "type": "richtext"
+    },
+    "faq10_content": {
+      "type": "richtext"
+    },
+    "faq11_content": {
+      "type": "richtext"
+    },
+    "faq12_content": {
+      "type": "richtext"
+    },
+    "faq13_content": {
+      "type": "richtext"
+    },
+    "faq14_content": {
+      "type": "richtext"
+    },
+    "faq15_content": {
+      "type": "richtext"
+    },
+    "faq16_content": {
+      "type": "richtext"
+    }
+  }
+}
