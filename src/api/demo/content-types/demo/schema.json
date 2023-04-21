@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "demos",
+  "info": {
+    "singularName": "demo",
+    "pluralName": "demos",
+    "displayName": "demo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "tel": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "regions": {
+      "type": "string"
+    },
+    "industry": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
+    }
+  }
+}
