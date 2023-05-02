@@ -4,7 +4,8 @@
   "info": {
     "singularName": "demo",
     "pluralName": "demos",
-    "displayName": "demo"
+    "displayName": "demo",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -30,6 +31,27 @@
       "type": "string"
     },
     "message": {
+      "type": "text"
+    },
+    "preferred_date": {
+      "type": "string"
+    },
+    "preferred_time": {
+      "type": "string"
+    },
+    "second_preferred_date": {
+      "type": "string"
+    },
+    "second_preferred_time": {
+      "type": "string"
+    },
+    "third_preferred_date": {
+      "type": "string"
+    },
+    "third_preferred_time": {
+      "type": "string"
+    },
+    "interested_services": {
       "type": "text"
     }
   }
