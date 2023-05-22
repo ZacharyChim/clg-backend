@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_top_menu_link_items",
+  "info": {
+    "displayName": "Link Item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
