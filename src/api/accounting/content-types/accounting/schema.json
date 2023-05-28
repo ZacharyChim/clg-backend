@@ -40,7 +40,7 @@
         }
       }
     },
-    "accounting": {
+    "accounting_tag": {
       "type": "media",
       "multiple": false,
       "required": false,
