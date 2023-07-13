@@ -576,22 +576,6 @@
         }
       }
     },
-    "dkdooLogo": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
-    },
     "kpayLogo": {
       "type": "media",
       "multiple": false,
@@ -681,14 +665,6 @@
       }
     },
     "caseTitle": {
-      "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
-    },
-    "caseDesc": {
       "type": "string",
       "pluginOptions": {
         "i18n": {

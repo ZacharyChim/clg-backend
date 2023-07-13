@@ -12,3 +12,14 @@
 //   },
 //   // ...
 // });
+module.exports = ({ env }) => ({
+	"vercel-deploy": {
+		enabled: true,
+		config: {
+			deployHook: "https://api.vercel.com/v1/integrations/deploy/prj_KFDgdUB0Y2HfYi90XnW2SMfZve3N/NJN1CFTL2g",
+			apiToken: "zfjtikSuEEZStrzi2lvIyvX3",
+			apiFilter: "clg-frontend",
+			roles: ["strapi-super-admin"]
+		},
+	},
+});

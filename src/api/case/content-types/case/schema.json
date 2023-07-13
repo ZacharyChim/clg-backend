@@ -54,7 +54,7 @@
       "target": "plugin::users-permissions.user",
       "inversedBy": "cases"
     },
-    "Category": {
+    "category": {
       "type": "string",
       "pluginOptions": {
         "i18n": {
@@ -71,6 +71,30 @@
           "localized": true
         }
       }
+    },
+    "meta_title": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "meta_description": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
+    },
+    "meta_keywords": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string"
     }
   }
 }
