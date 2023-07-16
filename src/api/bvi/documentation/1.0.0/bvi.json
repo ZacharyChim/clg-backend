@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/BviListResponse"
+                "$ref": "#/components/schemas/BviResponse"
               }
             }
           }

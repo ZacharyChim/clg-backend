@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/FloatingButtonListResponse"
+                "$ref": "#/components/schemas/FloatingButtonResponse"
               }
             }
           }

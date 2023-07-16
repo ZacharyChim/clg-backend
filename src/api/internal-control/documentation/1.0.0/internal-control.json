@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/InternalControlListResponse"
+                "$ref": "#/components/schemas/InternalControlResponse"
               }
             }
           }

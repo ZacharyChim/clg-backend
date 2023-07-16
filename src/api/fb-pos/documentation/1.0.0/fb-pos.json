@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/FbPosListResponse"
+                "$ref": "#/components/schemas/FbPosResponse"
               }
             }
           }

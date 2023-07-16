@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AnguillaListResponse"
+                "$ref": "#/components/schemas/AnguillaResponse"
               }
             }
           }

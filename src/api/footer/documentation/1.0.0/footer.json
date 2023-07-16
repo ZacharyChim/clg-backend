@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/FooterListResponse"
+                "$ref": "#/components/schemas/FooterResponse"
               }
             }
           }

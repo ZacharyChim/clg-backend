@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/AssuranceAdvisoryMenuListResponse"
+                "$ref": "#/components/schemas/AssuranceAdvisoryMenuResponse"
               }
             }
           }

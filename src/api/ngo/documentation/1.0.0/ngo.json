@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/NgoListResponse"
+                "$ref": "#/components/schemas/NgoResponse"
               }
             }
           }

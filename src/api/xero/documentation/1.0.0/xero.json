@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/XeroListResponse"
+                "$ref": "#/components/schemas/XeroResponse"
               }
             }
           }

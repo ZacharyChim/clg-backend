@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/CaymanListResponse"
+                "$ref": "#/components/schemas/CaymanResponse"
               }
             }
           }

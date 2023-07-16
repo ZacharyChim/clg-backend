@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DBizListResponse"
+                "$ref": "#/components/schemas/DBizResponse"
               }
             }
           }
